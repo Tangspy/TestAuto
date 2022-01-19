@@ -1,0 +1,56 @@
+test_base_page.py 2021-12-23 17:42:05,528 开始查找元素('name', 'username')
+test_base_page.py 2021-12-23 17:42:05,540 查找成功
+test_base_page.py 2021-12-23 17:42:05,540 开始输入元素('name', 'username')
+test_base_page.py 2021-12-23 17:42:05,593 输入成功
+test_base_page.py 2021-12-23 17:42:05,593 开始查找元素('name', 'password')
+test_base_page.py 2021-12-23 17:42:05,605 查找成功
+test_base_page.py 2021-12-23 17:42:05,605 开始输入元素('name', 'password')
+test_base_page.py 2021-12-23 17:42:05,653 输入成功
+test_base_page.py 2021-12-23 17:42:05,654 开始查找元素('name', 'submit')
+test_base_page.py 2021-12-23 17:42:05,662 查找成功
+test_base_page.py 2021-12-23 17:42:05,662 开始点击元素('name', 'submit')
+test_base_page.py 2021-12-23 17:42:05,817 点击成功
+test_base_page.py 2021-12-23 17:42:05,817 开始查找元素('xpath', "//div[@class='boxCenterList RelaArticle']/div/p")
+test_base_page.py 2021-12-23 17:42:05,831 查找成功
+test_base_page.py 2021-12-23 17:48:27,124 开始查找元素('name', 'username')
+test_base_page.py 2021-12-23 17:48:27,134 查找成功
+test_base_page.py 2021-12-23 17:48:27,135 开始输入元素('name', 'username')
+test_base_page.py 2021-12-23 17:48:27,184 输入成功
+test_base_page.py 2021-12-23 17:48:27,184 开始查找元素('name', 'password')
+test_base_page.py 2021-12-23 17:48:27,196 查找成功
+test_base_page.py 2021-12-23 17:48:27,197 开始输入元素('name', 'password')
+test_base_page.py 2021-12-23 17:48:27,265 输入成功
+test_base_page.py 2021-12-23 17:48:27,265 开始查找元素('name', 'submit')
+test_base_page.py 2021-12-23 17:48:27,273 查找成功
+test_base_page.py 2021-12-23 17:48:27,274 开始点击元素('name', 'submit')
+test_base_page.py 2021-12-23 17:48:27,402 点击成功
+test_base_page.py 2021-12-23 17:48:27,403 开始查找元素('xpath', "//div[@class='boxCenterList RelaArticle']/div/p")
+test_base_page.py 2021-12-23 17:48:27,418 查找成功
+test_base_page.py 2021-12-23 17:49:54,580 开始查找元素('name', 'username')
+test_base_page.py 2021-12-23 17:49:54,591 查找成功
+test_base_page.py 2021-12-23 17:49:54,592 开始输入元素('name', 'username')
+test_base_page.py 2021-12-23 17:49:54,641 输入成功
+test_base_page.py 2021-12-23 17:49:54,641 开始查找元素('name', 'password')
+test_base_page.py 2021-12-23 17:49:54,652 查找成功
+test_base_page.py 2021-12-23 17:49:54,652 开始输入元素('name', 'password')
+test_base_page.py 2021-12-23 17:49:54,701 输入成功
+test_base_page.py 2021-12-23 17:49:54,701 开始查找元素('name', 'submit')
+test_base_page.py 2021-12-23 17:49:54,712 查找成功
+test_base_page.py 2021-12-23 17:49:54,712 开始点击元素('name', 'submit')
+test_base_page.py 2021-12-23 17:49:54,862 点击成功
+test_base_page.py 2021-12-23 17:49:54,862 开始查找元素('xpath', "//div[@class='boxCenterList RelaArticle']/div/p")
+test_base_page.py 2021-12-23 17:49:54,874 查找成功
+test_base_page.py 2021-12-23 17:58:09,134 开始查找元素('name', 'username')
+test_base_page.py 2021-12-23 17:58:09,144 查找成功
+test_base_page.py 2021-12-23 17:58:09,144 开始输入元素('name', 'username')
+test_base_page.py 2021-12-23 17:58:09,188 输入成功
+test_base_page.py 2021-12-23 17:58:09,188 开始查找元素('name', 'password')
+test_base_page.py 2021-12-23 17:58:09,199 查找成功
+test_base_page.py 2021-12-23 17:58:09,200 开始输入元素('name', 'password')
+test_base_page.py 2021-12-23 17:58:09,249 输入成功
+test_base_page.py 2021-12-23 17:58:09,249 开始查找元素('name', 'submit')
+test_base_page.py 2021-12-23 17:58:09,257 查找成功
+test_base_page.py 2021-12-23 17:58:09,257 开始点击元素('name', 'submit')
+test_base_page.py 2021-12-23 17:58:09,378 点击成功
+test_base_page.py 2021-12-23 17:58:09,378 开始查找元素('xpath', "//div[@class='boxCenterList RelaArticle']/div/p")
+test_base_page.py 2021-12-23 17:58:09,388 查找成功
